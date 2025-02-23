@@ -1,3 +1,5 @@
+<img width="988" alt="image" src="https://github.com/user-attachments/assets/2a568f3b-4bbd-4cb4-afff-6e93c182176b" />
+
 # Rate Limiter Project
 
 A full-stack rate limiting system with a React frontend and Go backend that allows dynamic configuration of API rate limits.
