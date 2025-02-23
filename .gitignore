@@ -1,0 +1,37 @@
+
+# Ignore Go binary files
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Ignore vendor directory (if you're using Go modules, this may not be needed)
+/vendor/
+
+# Ignore Go build files
+*.out
+*.log
+*.test
+
+.env
+/frontend/.env
+/backend/.env
+
+# Ignore IDE/editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Ignore dependency directories
+node_modules/
+
+# Ignore Docker-related files
+.docker/
+Dockerfile*
+.dockerignore
+
+# Ignore OS-specific files
+.DS_Store  # macOS specific
+Thumbs.db  # Windows specific
